@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ProyCopias</string>
+    <string name="hello_world">Super copiador de texto</string>
+    <string name="action_settings">Settings</string>
+    <string name="strCopiaTexto">Copia Texto</string>
+
+</resources>
